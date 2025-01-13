@@ -20,9 +20,6 @@ The **AI Coding Mentor** is a full-stack application designed to provide coding 
 ## Tech Stack
 - **Backend**: Python, Hugging Face, LangChain, Flask
 - **Frontend**: Streamlit
-- **Database**: PostgreSQL (if applicable for future data storage)
-- **Asynchronous Tasks**: Celery, Redis
-- **Containerization**: Docker
 
 ## Setup and Installation
 
