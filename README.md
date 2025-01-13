@@ -56,17 +56,6 @@ The **AI Coding Mentor** is a full-stack application designed to provide coding 
    python train_model.py
    ```
 
-### Docker Setup
-1. Build the Docker image:
-   ```bash
-   docker build -t ai-coding-mentor .
-   ```
-
-2. Run the Docker container:
-   ```bash
-   docker run -p 8501:8501 ai-coding-mentor
-   ```
-
 ## Usage
 
 ### Coding Mentor
