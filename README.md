@@ -59,7 +59,7 @@ The **AI Coding Mentor** is a full-stack application designed to provide coding 
 ## Usage
 
 ### Coding Mentor
-- Access the Streamlit app at `http://localhost:8501`.
+- Run the Streamlit app.
 - Select a feature from the sidebar and input your code to get assistance.
 
 ### Model Training
